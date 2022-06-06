@@ -1,0 +1,22 @@
+/* All admin styles start here */
+
+.input-group {
+  width: 80%;
+}
+
+.apogee-menu-info-alert {
+  width: max-content;
+}
+
+#apogeeLogoFile {
+  cursor: pointer;
+  width: 40%;
+}
+
+#apogeeUploadLogoContainer {
+  transition: all 0.5 ease-out;
+}
+
+#apogeeUploadLogoContainer #apogeeRemoveLogo {
+  margin-left: 15px;
+}
